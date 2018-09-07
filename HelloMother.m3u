@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.starbr.in/starbr.xml"
+#EXTM3U
 
 #EXTINF:-1 tvg-id="GNT" tvg-name="GNT (0964)" tvg-logo="http://img.starbr.in/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="Variedades e Musicas",GNT (0964)
 http://lista.digitalgroup.me:80/live/derlimff/derlimff/1022.ts
