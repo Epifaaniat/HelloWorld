@@ -82,3 +82,52 @@ http://lista.digitalgroup.me:80/live/derlimff/derlimff/1204.ts
 http://lista.digitalgroup.me:80/live/derlimff/derlimff/2474.ts
 #EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES FULL HD" tvg-logo="http://img.starbr.in/1516362193_e8ec6624a7201b93a9fd10aefa96116bf612de69.png" group-title="Filmes e Series",TNT SERIES FULL HD
 http://lista.digitalgroup.me:80/live/derlimff/derlimff/5074.ts
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="TC ACTION" tvg-name="TC ACTION" tvg-logo="http://img.starbr.in/1516360836_34e97214a21d80f45b12171e5e28ecde28afbaf3.png" group-title="Filmes e Series",TC ACTION
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/935.ts
+#EXTINF:-1 tvg-id="TC ACTION" tvg-name="TC ACTION HD" tvg-logo="http://img.starbr.in/1516360836_34e97214a21d80f45b12171e5e28ecde28afbaf3.png" group-title="Filmes e Series",TC ACTION HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/936.ts
+#EXTINF:-1 tvg-id="TC ACTION" tvg-name="TC ACTION FULL HD" tvg-logo="http://img.starbr.in/1516360836_34e97214a21d80f45b12171e5e28ecde28afbaf3.png" group-title="Filmes e Series",TC ACTION FULL HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/5069.ts
+
+#EXTINF:-1 tvg-id="TC CULT" tvg-name="TC CULT" tvg-logo="http://img.starbr.in/1516360963_3650ca65bf2d7dfd81b84e1d0490bbfec6102ea1.jpg" group-title="Filmes e Series",TC CULT
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/933.ts
+#EXTINF:-1 tvg-id="TC CULT" tvg-name="TC CULT HD" tvg-logo="http://img.starbr.in/1516360963_3650ca65bf2d7dfd81b84e1d0490bbfec6102ea1.jpg" group-title="Filmes e Series",TC CULT HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/5096.ts
+#EXTINF:-1 tvg-id="TC CULT" tvg-name="TC CULT FULL HD" tvg-logo="http://img.starbr.in/1516360963_3650ca65bf2d7dfd81b84e1d0490bbfec6102ea1.jpg" group-title="Filmes e Series",TC CULT FULL HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/18026.ts
+
+#EXTINF:-1 tvg-id="TC FUN" tvg-name="TC FUN" tvg-logo="http://img.starbr.in/1516361211_233589ebc98bb0fc54278e2a1cc626e1dda51a2a.png" group-title="Filmes e Series",TC FUN
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/931.ts
+#EXTINF:-1 tvg-id="TC FUN" tvg-name="TC FUN HD" tvg-logo="http://img.starbr.in/1516361211_233589ebc98bb0fc54278e2a1cc626e1dda51a2a.png" group-title="Filmes e Series",TC FUN HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/932.ts
+#EXTINF:-1 tvg-id="TC FUN" tvg-name="TC FUN FULL HD" tvg-logo="http://img.starbr.in/1516361211_233589ebc98bb0fc54278e2a1cc626e1dda51a2a.png" group-title="Filmes e Series",TC FUN FULL HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/18027.ts
+
+#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TC PIPOCA" tvg-logo="http://img.starbr.in/1516361300_46a9179784e301633ee84c04dcf0e707f362e096.png" group-title="Filmes e Series",TC PIPOCA
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/929.ts
+#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TC PIPOCA HD" tvg-logo="http://img.starbr.in/1516361300_46a9179784e301633ee84c04dcf0e707f362e096.png" group-title="Filmes e Series",TC PIPOCA HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/930.ts
+#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TC PIPOCA FULL HD" tvg-logo="http://img.starbr.in/1516361300_46a9179784e301633ee84c04dcf0e707f362e096.png" group-title="Filmes e Series",TC PIPOCA FULL HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/5070.ts
+
+#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TC PREMIUM" tvg-logo="http://img.starbr.in/1516361393_00dbf22b51a4de3512bd744ef42116ffd04eb5d9.png" group-title="Filmes e Series",TC PREMIUM
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/2415.ts
+#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TC PREMIUM HD" tvg-logo="http://img.starbr.in/1516361393_00dbf22b51a4de3512bd744ef42116ffd04eb5d9.png" group-title="Filmes e Series",TC PREMIUM HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/928.ts
+#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TC PREMIUM FULL HD" tvg-logo="http://img.starbr.in/1516361393_00dbf22b51a4de3512bd744ef42116ffd04eb5d9.png" group-title="Filmes e Series",TC PREMIUM FULL HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/5071.ts
+
+#EXTINF:-1 tvg-id="TC TOUCH" tvg-name="TC TOUCH" tvg-logo="http://img.starbr.in/1516361487_90fe88aa0de57cd024250a92af9ab73cc3747ee0.png" group-title="Filmes e Series",TC TOUCH
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/926.ts
+#EXTINF:-1 tvg-id="TC TOUCH" tvg-name="TC TOUCH HD" tvg-logo="http://img.starbr.in/1516361487_90fe88aa0de57cd024250a92af9ab73cc3747ee0.png" group-title="Filmes e Series",TC TOUCH HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/927.ts
