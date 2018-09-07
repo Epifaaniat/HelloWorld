@@ -1,29 +1,84 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://img.starbr.in/1516237628_80181d5b8b9772628829109e39dfca130fb57a9d.jpg" group-title="Variedades e Musicas",A&E
-http://lista.digitalgroup.me:80/live/derlimff/derlimff/1120.ts
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD" tvg-logo="http://img.starbr.in/1516237628_80181d5b8b9772628829109e39dfca130fb57a9d.jpg" group-title="Variedades e Musicas",A&E HD
-http://lista.digitalgroup.me:80/live/derlimff/derlimff/5078.ts
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://img.starbr.in/1516239217_221b3727109dedf11b31af301492faf24acd6261.png" group-title="Filmes e Series",AXN
-http://lista.digitalgroup.me:80/live/derlimff/derlimff/1712.ts
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FULL HD" tvg-logo="http://img.starbr.in/1516239217_221b3727109dedf11b31af301492faf24acd6261.png" group-title="Filmes e Series",AXN FULL HD
-http://lista.digitalgroup.me:80/live/derlimff/derlimff/5033.ts
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://img.starbr.in/1516239217_221b3727109dedf11b31af301492faf24acd6261.png" group-title="Filmes e Series",AXN HD
-http://lista.digitalgroup.me:80/live/derlimff/derlimff/1114.ts
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO" tvg-logo="http://img.starbr.in/1516304981_7e49582c4bf61a25a2c3e2901514e8a6690e61e1.png" group-title="Documentarios",DISCOVERY TURBO
-http://lista.digitalgroup.me:80/live/derlimff/derlimff/1072.ts
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO FULL HD" tvg-logo="http://img.starbr.in/1516304981_7e49582c4bf61a25a2c3e2901514e8a6690e61e1.png" group-title="Documentarios",DISCOVERY TURBO FULL HD
-http://lista.digitalgroup.me:80/live/derlimff/derlimff/5038.ts
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://img.starbr.in/1516304981_7e49582c4bf61a25a2c3e2901514e8a6690e61e1.png" group-title="Documentarios",DISCOVERY TURBO HD
-http://lista.digitalgroup.me:80/live/derlimff/derlimff/2411.ts
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT (0264)" tvg-logo="http://img.starbr.in/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="Variedades e Musicas",GNT (0264)
-http://lista.digitalgroup.me:80/live/derlimff/derlimff/24287.ts
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT (0407)" tvg-logo="http://img.starbr.in/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="Variedades e Musicas",GNT (0407)
-http://lista.digitalgroup.me:80/live/derlimff/derlimff/24288.ts
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT (0626)" tvg-logo="http://img.starbr.in/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="Variedades e Musicas",GNT (0626)
-http://lista.digitalgroup.me:80/live/derlimff/derlimff/24289.ts
+#EXTM3U x-tvg-url="http://epg.starbr.in/starbr.xml"
+
 #EXTINF:-1 tvg-id="GNT" tvg-name="GNT (0964)" tvg-logo="http://img.starbr.in/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="Variedades e Musicas",GNT (0964)
 http://lista.digitalgroup.me:80/live/derlimff/derlimff/1022.ts
 #EXTINF:-1 tvg-id="GNT" tvg-name="GNT (1485)" tvg-logo="http://img.starbr.in/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="Variedades e Musicas",GNT (1485)
 http://lista.digitalgroup.me:80/live/derlimff/derlimff/24290.ts
 #EXTINF:-1 tvg-id="GNT" tvg-name="GNT (2316)" tvg-logo="http://img.starbr.in/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="Variedades e Musicas",GNT (2316)
 http://lista.digitalgroup.me:80/live/derlimff/derlimff/2466.ts
+
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="http://img.starbr.in/1516304527_2da0f142fc25feed1d546aac7a1bc93564eca785.jpg" group-title="Variedades e Musicas",DISCOVERY HOME & HEALTH
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/2399.ts
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://img.starbr.in/1516304527_2da0f142fc25feed1d546aac7a1bc93564eca785.jpg" group-title="Variedades e Musicas",DISCOVERY HOME & HEALTH HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/1082.ts
+
+#EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK" tvg-logo="http://img.starbr.in/1516307297_3f171c584b7df80d589aaed8af75066dba195303.png" group-title="Variedades e Musicas",FOOD NETWORK
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/1049.ts
+#EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK HD" tvg-logo="http://img.starbr.in/1516307297_3f171c584b7df80d589aaed8af75066dba195303.png" group-title="Variedades e Musicas",FOOD NETWORK HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/5084.ts
+#EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK FULL HD" tvg-logo="http://img.starbr.in/1516307297_3f171c584b7df80d589aaed8af75066dba195303.png" group-title="Variedades e Musicas",FOOD NETWORK FULL HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/26041.ts
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://img.starbr.in/1516362021_079595e05abe40b1ab17cccb6caa9a1148f35e41.png" group-title="Variedades e Musicas",TLC
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/922.ts
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC HD" tvg-logo="http://img.starbr.in/1516362021_079595e05abe40b1ab17cccb6caa9a1148f35e41.png" group-title="Variedades e Musicas",TLC HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/5097.ts
+
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="MAIS GLOBOSAT" tvg-logo="http://img.starbr.in/1516312239_2dc4938e1a1ef83c790c0db7499c9f48659c1712.png" group-title="Variedades e Musicas",MAIS GLOBOSAT
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/1008.ts
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="MAIS GLOBOSAT HD" tvg-logo="http://img.starbr.in/1516312239_2dc4938e1a1ef83c790c0db7499c9f48659c1712.png" group-title="Variedades e Musicas",MAIS GLOBOSAT HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/5088.ts
+
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME" tvg-logo="http://img.starbr.in/1516312139_baa73a01080f36bc25efa3684c6f408f87efa9d5.png" group-title="Variedades e Musicas",LIFETIME
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/2492.ts
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME HD" tvg-logo="http://img.starbr.in/1516312139_baa73a01080f36bc25efa3684c6f408f87efa9d5.png" group-title="Variedades e Musicas",LIFETIME HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/5087.ts
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME FULL HD" tvg-logo="http://img.starbr.in/1516312139_baa73a01080f36bc25efa3684c6f408f87efa9d5.png" group-title="Variedades e Musicas",LIFETIME FULL HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/26034.ts
+
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://img.starbr.in/1516237628_80181d5b8b9772628829109e39dfca130fb57a9d.jpg" group-title="Variedades e Musicas",A&E
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/1120.ts
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD" tvg-logo="http://img.starbr.in/1516237628_80181d5b8b9772628829109e39dfca130fb57a9d.jpg" group-title="Variedades e Musicas",A&E HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/5078.ts
+
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://img.starbr.in/1516304181_46ab479ef1cad874e93ac87dfbcff6c83ed0c66d.png" group-title="Documentarios",DISCOVERY CHANNEL
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/1084.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://img.starbr.in/1516304181_46ab479ef1cad874e93ac87dfbcff6c83ed0c66d.png" group-title="Documentarios",DISCOVERY CHANNEL HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/2410.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL FULL HD" tvg-logo="http://img.starbr.in/1516304181_46ab479ef1cad874e93ac87dfbcff6c83ed0c66d.png" group-title="Documentarios",DISCOVERY CHANNEL FULL HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/5035.ts
+
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="DISCOVERY WORLD" tvg-logo="http://img.starbr.in/1516305094_516d89d1f346643f27d856707cf1384a24455144.png" group-title="Documentarios",DISCOVERY WORLD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/20808.ts
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://img.starbr.in/1516305094_516d89d1f346643f27d856707cf1384a24455144.png" group-title="Documentarios",DISCOVERY WORLD HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/2461.ts
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="DISCOVERY WORLD FULL HD" tvg-logo="http://img.starbr.in/1516305094_516d89d1f346643f27d856707cf1384a24455144.png" group-title="Documentarios",DISCOVERY WORLD FULL HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/26022.ts
+
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO" tvg-logo="http://img.starbr.in/1516304981_7e49582c4bf61a25a2c3e2901514e8a6690e61e1.png" group-title="Documentarios",DISCOVERY TURBO
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/1072.ts
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO FULL HD" tvg-logo="http://img.starbr.in/1516304981_7e49582c4bf61a25a2c3e2901514e8a6690e61e1.png" group-title="Documentarios",DISCOVERY TURBO FULL HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/5038.ts
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://img.starbr.in/1516304981_7e49582c4bf61a25a2c3e2901514e8a6690e61e1.png" group-title="Documentarios",DISCOVERY TURBO HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/2411.ts
+
+#EXTINF:-1 tvg-id="History" tvg-name="THE HISTORY CHANNEL" tvg-logo="http://img.starbr.in/1516361934_5cd0838fbf66c6c1499b637579b89fb891f732c0.png" group-title="Documentarios",THE HISTORY CHANNEL
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/923.ts
+#EXTINF:-1 tvg-id="History" tvg-name="THE HISTORY CHANNEL HD" tvg-logo="http://img.starbr.in/1516361934_5cd0838fbf66c6c1499b637579b89fb891f732c0.png" group-title="Documentarios",THE HISTORY CHANNEL HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/2468.ts
+#EXTINF:-1 tvg-id="History" tvg-name="THE HISTORY CHANNEL FULL HD" tvg-logo="http://img.starbr.in/1516361934_5cd0838fbf66c6c1499b637579b89fb891f732c0.png" group-title="Documentarios",THE HISTORY CHANNEL FULL HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/16216.ts
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://img.starbr.in/1516239217_221b3727109dedf11b31af301492faf24acd6261.png" group-title="Filmes e Series",AXN
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/1712.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://img.starbr.in/1516239217_221b3727109dedf11b31af301492faf24acd6261.png" group-title="Filmes e Series",AXN HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/1114.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FULL HD" tvg-logo="http://img.starbr.in/1516239217_221b3727109dedf11b31af301492faf24acd6261.png" group-title="Filmes e Series",AXN FULL HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/5033.ts
+
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES" tvg-logo="http://img.starbr.in/1516362193_e8ec6624a7201b93a9fd10aefa96116bf612de69.png" group-title="Filmes e Series",TNT SERIES
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/1204.ts
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES HD" tvg-logo="http://img.starbr.in/1516362193_e8ec6624a7201b93a9fd10aefa96116bf612de69.png" group-title="Filmes e Series",TNT SERIES HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/2474.ts
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES FULL HD" tvg-logo="http://img.starbr.in/1516362193_e8ec6624a7201b93a9fd10aefa96116bf612de69.png" group-title="Filmes e Series",TNT SERIES FULL HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/5074.ts
