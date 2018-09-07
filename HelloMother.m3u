@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://img.starbr.in/1516237628_80181d5b8b9772628829109e39dfca130fb57a9d.jpg" group-title="Variedades e Musicas",A&E
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/1120.ts
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD" tvg-logo="http://img.starbr.in/1516237628_80181d5b8b9772628829109e39dfca130fb57a9d.jpg" group-title="Variedades e Musicas",A&E HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/5078.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://img.starbr.in/1516239217_221b3727109dedf11b31af301492faf24acd6261.png" group-title="Filmes e Series",AXN
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/1712.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FULL HD" tvg-logo="http://img.starbr.in/1516239217_221b3727109dedf11b31af301492faf24acd6261.png" group-title="Filmes e Series",AXN FULL HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/5033.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://img.starbr.in/1516239217_221b3727109dedf11b31af301492faf24acd6261.png" group-title="Filmes e Series",AXN HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/1114.ts
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO" tvg-logo="http://img.starbr.in/1516304981_7e49582c4bf61a25a2c3e2901514e8a6690e61e1.png" group-title="Documentarios",DISCOVERY TURBO
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/1072.ts
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO FULL HD" tvg-logo="http://img.starbr.in/1516304981_7e49582c4bf61a25a2c3e2901514e8a6690e61e1.png" group-title="Documentarios",DISCOVERY TURBO FULL HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/5038.ts
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://img.starbr.in/1516304981_7e49582c4bf61a25a2c3e2901514e8a6690e61e1.png" group-title="Documentarios",DISCOVERY TURBO HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/2411.ts
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT (0264)" tvg-logo="http://img.starbr.in/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="Variedades e Musicas",GNT (0264)
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/24287.ts
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT (0407)" tvg-logo="http://img.starbr.in/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="Variedades e Musicas",GNT (0407)
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/24288.ts
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT (0626)" tvg-logo="http://img.starbr.in/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="Variedades e Musicas",GNT (0626)
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/24289.ts
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT (0964)" tvg-logo="http://img.starbr.in/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="Variedades e Musicas",GNT (0964)
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/1022.ts
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT (1485)" tvg-logo="http://img.starbr.in/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="Variedades e Musicas",GNT (1485)
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/24290.ts
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT (2316)" tvg-logo="http://img.starbr.in/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="Variedades e Musicas",GNT (2316)
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/2466.ts
