@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="http://img.starbr.in/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="Variedades e Musicas",GNT (0964)
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="http://img.starbr.in/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="Variedades e Musicas",GNT SD
 http://lista.digitalgroup.me:80/live/derlimff/derlimff/1022.ts
-#EXTINF:-1 tvg-id="GNT SD+" tvg-name="GNT SD+" tvg-logo="http://img.starbr.in/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="Variedades e Musicas",GNT (1485)
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT SD+" tvg-logo="http://img.starbr.in/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="Variedades e Musicas",GNT SD+
 http://lista.digitalgroup.me:80/live/derlimff/derlimff/24290.ts
-#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT HD" tvg-logo="http://img.starbr.in/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="Variedades e Musicas",GNT (2316)
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD" tvg-logo="http://img.starbr.in/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="Variedades e Musicas",GNT HD
 http://lista.digitalgroup.me:80/live/derlimff/derlimff/2466.ts
 
-#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="http://img.starbr.in/1516304527_2da0f142fc25feed1d546aac7a1bc93564eca785.jpg" group-title="Variedades e Musicas",DISCOVERY HOME & HEALTH
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="http://img.starbr.in/1516304527_2da0f142fc25feed1d546aac7a1bc93564eca785.jpg" group-title="Variedades e Musicas" spect-ratio="16:9",DISCOVERY HOME & HEALTH
 http://lista.digitalgroup.me:80/live/derlimff/derlimff/2399.ts
 #EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://img.starbr.in/1516304527_2da0f142fc25feed1d546aac7a1bc93564eca785.jpg" group-title="Variedades e Musicas",DISCOVERY HOME & HEALTH HD
 http://lista.digitalgroup.me:80/live/derlimff/derlimff/1082.ts
