@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.starbr.in/starbr.xml"
+#EXTM3U
 
 #EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="http://img.starbr.in/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="Variedades e Musicas",GNT (0964)
 http://lista.digitalgroup.me:80/live/derlimff/derlimff/1022.ts
@@ -24,34 +24,20 @@ http://lista.digitalgroup.me:80/live/derlimff/derlimff/922.ts
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC HD" tvg-logo="http://img.starbr.in/1516362021_079595e05abe40b1ab17cccb6caa9a1148f35e41.png" group-title="Variedades e Musicas",TLC HD
 http://lista.digitalgroup.me:80/live/derlimff/derlimff/5097.ts
 
-#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="MAIS GLOBOSAT" tvg-logo="http://img.starbr.in/1516312239_2dc4938e1a1ef83c790c0db7499c9f48659c1712.png" group-title="Variedades e Musicas",MAIS GLOBOSAT
-http://lista.digitalgroup.me:80/live/derlimff/derlimff/1008.ts
-#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="MAIS GLOBOSAT HD" tvg-logo="http://img.starbr.in/1516312239_2dc4938e1a1ef83c790c0db7499c9f48659c1712.png" group-title="Variedades e Musicas",MAIS GLOBOSAT HD
-http://lista.digitalgroup.me:80/live/derlimff/derlimff/5088.ts
-
-#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME" tvg-logo="http://img.starbr.in/1516312139_baa73a01080f36bc25efa3684c6f408f87efa9d5.png" group-title="Variedades e Musicas",LIFETIME
-http://lista.digitalgroup.me:80/live/derlimff/derlimff/2492.ts
-#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME HD" tvg-logo="http://img.starbr.in/1516312139_baa73a01080f36bc25efa3684c6f408f87efa9d5.png" group-title="Variedades e Musicas",LIFETIME HD
-http://lista.digitalgroup.me:80/live/derlimff/derlimff/5087.ts
-#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME FULL HD" tvg-logo="http://img.starbr.in/1516312139_baa73a01080f36bc25efa3684c6f408f87efa9d5.png" group-title="Variedades e Musicas",LIFETIME FULL HD
-http://lista.digitalgroup.me:80/live/derlimff/derlimff/26034.ts
-
-#EXTINF:-1 tvg-id="FoxLife" tvg-name="FOX LIFE" tvg-logo="http://img.starbr.in/1516307532_1480374d0207eff2609baebc726b8d3dc9614b6f.png" group-title="Variedades e Musicas",FOX LIFE
-http://lista.digitalgroup.me:80/live/derlimff/derlimff/1038.ts
-#EXTINF:-1 tvg-id="FoxLife" tvg-name="FOX LIFE HD" tvg-logo="http://img.starbr.in/1516307532_1480374d0207eff2609baebc726b8d3dc9614b6f.png" group-title="Variedades e Musicas",FOX LIFE HD
-http://lista.digitalgroup.me:80/live/derlimff/derlimff/1037.ts
-
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://img.starbr.in/1516237628_80181d5b8b9772628829109e39dfca130fb57a9d.jpg" group-title="Variedades e Musicas",A&E
 http://lista.digitalgroup.me:80/live/derlimff/derlimff/1120.ts
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD" tvg-logo="http://img.starbr.in/1516237628_80181d5b8b9772628829109e39dfca130fb57a9d.jpg" group-title="Variedades e Musicas",A&E HD
 http://lista.digitalgroup.me:80/live/derlimff/derlimff/5078.ts
 
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://img.starbr.in/1516304181_46ab479ef1cad874e93ac87dfbcff6c83ed0c66d.png" group-title="Documentarios",DISCOVERY CHANNEL
-http://lista.digitalgroup.me:80/live/derlimff/derlimff/1084.ts
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://img.starbr.in/1516304181_46ab479ef1cad874e93ac87dfbcff6c83ed0c66d.png" group-title="Documentarios",DISCOVERY CHANNEL HD
-http://lista.digitalgroup.me:80/live/derlimff/derlimff/2410.ts
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL FULL HD" tvg-logo="http://img.starbr.in/1516304181_46ab479ef1cad874e93ac87dfbcff6c83ed0c66d.png" group-title="Documentarios",DISCOVERY CHANNEL FULL HD
-http://lista.digitalgroup.me:80/live/derlimff/derlimff/5035.ts
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="MAIS GLOBOSAT" tvg-logo="http://img.starbr.in/1516312239_2dc4938e1a1ef83c790c0db7499c9f48659c1712.png" group-title="Variedades e Musicas",MAIS GLOBOSAT
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/1008.ts
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="MAIS GLOBOSAT HD" tvg-logo="http://img.starbr.in/1516312239_2dc4938e1a1ef83c790c0db7499c9f48659c1712.png" group-title="Variedades e Musicas",MAIS GLOBOSAT HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/5088.ts
+
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="FOX LIFE" tvg-logo="http://img.starbr.in/1516307532_1480374d0207eff2609baebc726b8d3dc9614b6f.png" group-title="Variedades e Musicas",FOX LIFE
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/1038.ts
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="FOX LIFE HD" tvg-logo="http://img.starbr.in/1516307532_1480374d0207eff2609baebc726b8d3dc9614b6f.png" group-title="Variedades e Musicas",FOX LIFE HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/1037.ts
 
 #EXTINF:-1 tvg-id="Discovery World" tvg-name="DISCOVERY WORLD" tvg-logo="http://img.starbr.in/1516305094_516d89d1f346643f27d856707cf1384a24455144.png" group-title="Documentarios",DISCOVERY WORLD
 http://lista.digitalgroup.me:80/live/derlimff/derlimff/20808.ts
@@ -60,12 +46,33 @@ http://lista.digitalgroup.me:80/live/derlimff/derlimff/2461.ts
 #EXTINF:-1 tvg-id="Discovery World" tvg-name="DISCOVERY WORLD FULL HD" tvg-logo="http://img.starbr.in/1516305094_516d89d1f346643f27d856707cf1384a24455144.png" group-title="Documentarios",DISCOVERY WORLD FULL HD
 http://lista.digitalgroup.me:80/live/derlimff/derlimff/26022.ts
 
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://img.starbr.in/1516304181_46ab479ef1cad874e93ac87dfbcff6c83ed0c66d.png" group-title="Documentarios",DISCOVERY CHANNEL
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/1084.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://img.starbr.in/1516304181_46ab479ef1cad874e93ac87dfbcff6c83ed0c66d.png" group-title="Documentarios",DISCOVERY CHANNEL HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/2410.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL FULL HD" tvg-logo="http://img.starbr.in/1516304181_46ab479ef1cad874e93ac87dfbcff6c83ed0c66d.png" group-title="Documentarios",DISCOVERY CHANNEL FULL HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/5035.ts
+
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO" tvg-logo="http://img.starbr.in/1516304981_7e49582c4bf61a25a2c3e2901514e8a6690e61e1.png" group-title="Documentarios",DISCOVERY TURBO
 http://lista.digitalgroup.me:80/live/derlimff/derlimff/1072.ts
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO FULL HD" tvg-logo="http://img.starbr.in/1516304981_7e49582c4bf61a25a2c3e2901514e8a6690e61e1.png" group-title="Documentarios",DISCOVERY TURBO FULL HD
-http://lista.digitalgroup.me:80/live/derlimff/derlimff/5038.ts
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://img.starbr.in/1516304981_7e49582c4bf61a25a2c3e2901514e8a6690e61e1.png" group-title="Documentarios",DISCOVERY TURBO HD
 http://lista.digitalgroup.me:80/live/derlimff/derlimff/2411.ts
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO FULL HD" tvg-logo="http://img.starbr.in/1516304981_7e49582c4bf61a25a2c3e2901514e8a6690e61e1.png" group-title="Documentarios",DISCOVERY TURBO FULL HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/5038.ts
+
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516304318_ea0fabc96247cdacd9f0af7b22790b53bd2d48c6.png" group-title="Documentarios",DISCOVERY CIVILIZATION
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/20805.ts
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="DISCOVERY CIVILIZATION HD" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516304318_ea0fabc96247cdacd9f0af7b22790b53bd2d48c6.png" group-title="Documentarios",DISCOVERY CIVILIZATION HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/16005.ts
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="DISCOVERY CIVILIZATION FULL HD" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516304318_ea0fabc96247cdacd9f0af7b22790b53bd2d48c6.png" group-title="Documentarios",DISCOVERY CIVILIZATION FULL HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/26026.ts
+
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516304750_47cba569fa26f81e49f4fdd8596bec9930f0f89e.jpg" group-title="Documentarios",DISCOVERY SCIENCE
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/20806.ts
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516304750_47cba569fa26f81e49f4fdd8596bec9930f0f89e.jpg" group-title="Documentarios",DISCOVERY SCIENCE HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/16006.ts
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE FULL HD" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516304750_47cba569fa26f81e49f4fdd8596bec9930f0f89e.jpg" group-title="Documentarios",DISCOVERY SCIENCE FULL HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/26024.ts
 
 #EXTINF:-1 tvg-id="History" tvg-name="THE HISTORY CHANNEL" tvg-logo="http://img.starbr.in/1516361934_5cd0838fbf66c6c1499b637579b89fb891f732c0.png" group-title="Documentarios",THE HISTORY CHANNEL
 http://lista.digitalgroup.me:80/live/derlimff/derlimff/923.ts
@@ -73,6 +80,20 @@ http://lista.digitalgroup.me:80/live/derlimff/derlimff/923.ts
 http://lista.digitalgroup.me:80/live/derlimff/derlimff/2468.ts
 #EXTINF:-1 tvg-id="History" tvg-name="THE HISTORY CHANNEL FULL HD" tvg-logo="http://img.starbr.in/1516361934_5cd0838fbf66c6c1499b637579b89fb891f732c0.png" group-title="Documentarios",THE HISTORY CHANNEL FULL HD
 http://lista.digitalgroup.me:80/live/derlimff/derlimff/16216.ts
+
+#EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-logo="http://img.starbr.in/1516310848_ac7953a38cf6398672f6c2031610db28de2bd4be.png" group-title="Documentarios",H2
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/2486.ts
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 HD" tvg-logo="http://img.starbr.in/1516310848_ac7953a38cf6398672f6c2031610db28de2bd4be.png" group-title="Documentarios",H2 HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/1021.ts
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 FULL HD" tvg-logo="http://img.starbr.in/1516310848_ac7953a38cf6398672f6c2031610db28de2bd4be.png" group-title="Documentarios",H2 FULL HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/5056.ts
+
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NATIONAL GEOGRAPHICS" tvg-logo="http://img.starbr.in/1516319258_4582b925ef1ccaaeaf6fc165249d007d97d19e97.png" group-title="Documentarios",NATIONAL GEOGRAPHICS
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/991.ts
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NATIONAL GEOGRAPHICS HD" tvg-logo="http://img.starbr.in/1516319258_4582b925ef1ccaaeaf6fc165249d007d97d19e97.png" group-title="Documentarios",NATIONAL GEOGRAPHICS HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/990.ts
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NATIONAL GEOGRAPHICS FULL HD" tvg-logo="http://img.starbr.in/1516319258_4582b925ef1ccaaeaf6fc165249d007d97d19e97.png" group-title="Documentarios",NATIONAL GEOGRAPHICS FULL HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/26016.ts
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://img.starbr.in/1516239217_221b3727109dedf11b31af301492faf24acd6261.png" group-title="Filmes e Series",AXN
 http://lista.digitalgroup.me:80/live/derlimff/derlimff/1712.ts
@@ -87,6 +108,11 @@ http://lista.digitalgroup.me:80/live/derlimff/derlimff/1204.ts
 http://lista.digitalgroup.me:80/live/derlimff/derlimff/2474.ts
 #EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES FULL HD" tvg-logo="http://img.starbr.in/1516362193_e8ec6624a7201b93a9fd10aefa96116bf612de69.png" group-title="Filmes e Series",TNT SERIES FULL HD
 http://lista.digitalgroup.me:80/live/derlimff/derlimff/5074.ts
+
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://img.starbr.in/1516361623_fad62047e94f5297e9ef74bf5c71ca29b66597f0.png" group-title="Filmes e Series",TCM
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/925.ts
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM HD" tvg-logo="http://img.starbr.in/1516361623_fad62047e94f5297e9ef74bf5c71ca29b66597f0.png" group-title="Filmes e Series",TCM HD
+http://lista.digitalgroup.me:80/live/derlimff/derlimff/20830.ts
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://img.starbr.in/1516362096_b118548d389431cc50d80da692ee4861553c9b35.png" group-title="Filmes e Series",TNT
 http://lista.digitalgroup.me:80/live/derlimff/derlimff/921.ts
